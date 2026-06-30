@@ -14,10 +14,10 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+<!-- 
 ![GitHub last commit](https://img.shields.io/github/last-commit/vansh-frontend/hackerrank-reactjs-problems?style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/vansh-frontend/hackerrank-reactjs-problems?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/vansh-frontend/hackerrank-reactjs-problems?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/vansh-frontend/hackerrank-reactjs-problems?style=flat-square) -->
 
 </div>
 
