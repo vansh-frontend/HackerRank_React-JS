@@ -1,0 +1,102 @@
+/* Center the form */
+.App-form {
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 30px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.App-form h1 {
+  text-align: center;
+  margin-bottom: 25px;
+  color: #333;
+}
+
+/* Form Layout */
+.App-form form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+/* Inputs */
+.App-form input,
+.App-form textarea {
+  width: 100%;
+  padding: 12px 15px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  outline: none;
+  transition: 0.3s ease;
+  box-sizing: border-box;
+}
+
+.App-form textarea {
+  resize: vertical;
+  min-height: 120px;
+}
+
+.App-form input:focus,
+.App-form textarea:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 6px rgba(0, 123, 255, 0.25);
+}
+
+/* Button */
+.App-form button {
+  padding: 12px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.App-form button:hover {
+  background: #0056b3;
+}
+
+.App-form button:active {
+  transform: scale(0.98);
+}
+
+/* Error Message */
+.error {
+  margin-top: 15px;
+  color: #d93025;
+  background: #fdeaea;
+  padding: 10px;
+  border-radius: 6px;
+  text-align: center;
+  font-weight: 500;
+}
+
+/* Submitted Data */
+.submitted-data {
+  margin-top: 25px;
+  padding: 20px;
+  background: #f4fdf5;
+  border: 1px solid #b8e6c1;
+  border-radius: 10px;
+}
+
+.submitted-data h2 {
+  margin-bottom: 15px;
+  color: #2e7d32;
+}
+
+.submitted-data p {
+  margin: 8px 0;
+  color: #333;
+}
+
+.submitted-data strong {
+  color: #111;
+}
