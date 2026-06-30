@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 main.jsx
 /main.jsx
+src/main.jsx
+**/main.jsx
