@@ -22,7 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-main.jsx
-/main.jsx
-src/main.jsx
-**/main.jsx

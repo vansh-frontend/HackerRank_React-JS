@@ -15,9 +15,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/hackerrank-reactjs-problems?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/hackerrank-reactjs-problems?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/hackerrank-reactjs-problems?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/vansh-frontend/hackerrank-reactjs-problems?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/vansh-frontend/hackerrank-reactjs-problems?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/vansh-frontend/hackerrank-reactjs-problems?style=flat-square)
 
 </div>
 
@@ -137,7 +137,7 @@ src
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/hackerrank-reactjs-problems.git
+git clone https://github.com/vansh-frontend/hackerrank-reactjs-problems.git
 ```
 
 Move into the project
