@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1200px;
+  max-width: 100%;
+  margin: 40px auto;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+}
+
+.card {
+  width: 280px;
+  background: #fff;
+  border-radius: 8px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.card h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+button {
+  border: none;
+  color: white;
+  padding: 10px 18px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 15px;
+  transition: 0.3s;
+}
+
+.upvote {
+  background: #28a745;
+}
+
+.upvote:hover {
+  background: #218838;
+}
+
+.downvote {
+  background: #dc3545;
+}
+
+.downvote:hover {
+  background: #c82333;
+}
+
+.card p {
+  margin: 8px 0;
+  font-size: 16px;
+}
+
+code{
+  background-color: #333;
+  color: #fff;
+}
+h3,p{
+  text-align: center;
+}
